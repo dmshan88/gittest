@@ -7,6 +7,6 @@ class IndexController extends Controller
 {
     public function index()
     {
-        echo "think 1.0 hhhh new machine";
+        echo "think 1.0 hhhh new machine simple";
     }
 }
